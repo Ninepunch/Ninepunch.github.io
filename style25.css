@@ -2,9 +2,9 @@ body {
   color: white;
   background-color: black;
 
-p {
+p1 {
   font-family: Helvetica Neue;
   font-style: normal;
   font-weight: 400;
-  color: white;
+  color: red;
   }
